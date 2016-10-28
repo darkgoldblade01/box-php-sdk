@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "*",
-        "adammbalogh/key-value-store": "~0.5.1"
+        "adammbalogh/key-value-store": "0.5.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.2.5",
